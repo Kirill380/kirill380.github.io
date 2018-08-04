@@ -7,14 +7,13 @@
 ```java
 Path path = Paths.get(dirPath);
 boolean dirExists = Files.exists(dirPathObj);
-if(dirExists) {
-  System.out.println("Directory already exists");
+if (dirExists) {
+  log.warn("The directory already exists");
 } else {
   try {
     Files.createDirectories(dirPathObj);
-    System.out.println(" New Directory Successfully Created !");
   } catch (IOException ex) {
-    System.out.println("Problem Occured While Creating The Directory Structure= " + ex.getMessage());
+    log.error("Can't create a new directory: " + ex.getMessage());
   }
 }
 ```
