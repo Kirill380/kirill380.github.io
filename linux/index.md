@@ -15,6 +15,9 @@ du -sh
 du -h --max-depth=1 | sort -hr
 ```
 
+## Usefull links
+1. [Linux shell scripting](https://www.linkedin.com/learning/learning-linux-shell-scripting-2)
+
 ## Bash pazzlers
 
 1. Set image tags based on feature branch 
@@ -52,3 +55,4 @@ function process_dependent_tags () {
     IFS="$TRG_OIFS"
 }
 ```
+
