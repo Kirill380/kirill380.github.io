@@ -2,7 +2,6 @@
 * i [ɪ:], [i:] -- sheep
 * ɪ [i] -- ship
 
-
 * ɑ [a:] [ɑ:] -- father 
 * ɒ [o] -- honest 
 * ɔ [o:] [ɔ:] -- daughter
