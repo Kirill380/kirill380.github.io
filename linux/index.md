@@ -17,6 +17,7 @@ du -h --max-depth=1 | sort -hr
 
 ## Usefull links
 1. [Linux shell scripting](https://www.linkedin.com/learning/learning-linux-shell-scripting-2)
+2. https://habr.com/ru/post/436938/
 
 ## Bash pazzlers
 
