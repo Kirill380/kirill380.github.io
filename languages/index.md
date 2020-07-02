@@ -31,7 +31,7 @@
       <pre lang="Kotlin"> var arr: Array&lt;T&gt; </pre>
     </td>
     <td class="s2" dir="ltr">
-      <pre lang="Kotlin">  arrayOf(a, b, c)  </pre>
+      <pre lang="Kotlin">  arrayOf(a, b, c);  </pre>
     </td> 
     <td class="s2" dir="ltr"></td>
   </tr>
