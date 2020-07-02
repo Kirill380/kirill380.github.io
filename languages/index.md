@@ -18,7 +18,7 @@
     <td class="s2" dir="ltr">  
        <pre lang="java">Type[] arr; Type arr[];</pre>
     </td>
-    <td class="s2" dir="ltr">
+    <td class="s2" align="center" dir="ltr">
       <pre lang="java">{a, b, c}</pre>
     </td>
     <td class="s2" dir="ltr">
@@ -30,25 +30,25 @@
     <td class="s2" dir="ltr">
       <pre lang="Kotlin"> var arr: Array&lt;T&gt; </pre>
     </td>
-    <td class="s2" dir="ltr">
-      <pre lang="Kotlin">  arrayOf(a, b, c);  </pre>
+    <td class="s2" align="center" dir="ltr">
+      <pre lang="Kotlin"> arrayOf(a, b, c); </pre>
     </td> 
     <td class="s2" dir="ltr"></td>
   </tr>
   <tr style="height:20px;">
     <td class="s0" dir="ltr">JS</td>
     <td class="s4" dir="ltr"></td>
-    <td class="s2" dir="ltr"> 
+    <td class="s2" align="center" dir="ltr"> 
        <pre lang="javascript"> [a, b, c] </pre>
     </td>
     <td class="s2" dir="ltr">
-      <pre lang="javascript">  Array(a, b, c) </pre>
+      <pre lang="javascript"> Array(a, b, c) </pre>
     </td>
   </tr>
   <tr style="height:20px;">
     <td class="s0" dir="ltr">Python 3.8</td>
     <td class="s4" dir="ltr"></td>
-    <td class="s2" dir="ltr">
+    <td class="s2" align="center" dir="ltr">
       <pre lang="python"> array([a, b, c]) </pre>
     </td>
     <td class="s2" dir="ltr"></td>
@@ -58,7 +58,7 @@
     <td class="s2" dir="ltr">
        <pre lang="c++"> Type arr[]; </pre>
     </td>
-    <td class="s2" dir="ltr">
+    <td class="s2" align="center" dir="ltr">
        <pre lang="c++"> {a, b, c} </pre>
     </td>
     <td class="s2" dir="ltr">
@@ -68,7 +68,7 @@
   <tr style="height:20px;">
     <td class="s3" dir="ltr">Bash</td>
     <td class="s5" dir="ltr"></td>
-    <td class="s6" dir="ltr">
+    <td class="s6" align="center" dir="ltr">
       <pre lang="bash"> (a, b, c) </pre>
     </td>
     <td class="s6" dir="ltr"></td>
