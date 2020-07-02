@@ -41,7 +41,9 @@
     <td class="s2" dir="ltr"> 
        <pre lang="javascript"> [a, b, c] </pre>
     </td>
-    <td class="s2" dir="ltr"> Array(a, b, c)</td>
+    <td class="s2" dir="ltr">
+      <pre lang="javascript">  Array(a, b, c) </pre>
+    </td>
   </tr>
   <tr style="height:20px;">
     <td class="s0" dir="ltr">Python 3.8</td>
@@ -76,9 +78,15 @@
   <tbody>
   <tr style="height:20px;">
     <td class="s0" dir="ltr">Java 9</td>
-    <td class="s2" dir="ltr">Map&lt;K, V&gt; map;</td>
-    <td class="s2" dir="ltr">Map.of(key, value, key2, value2)</td>
-    <td class="s2" dir="ltr">new HashMap&lt;K, V&gt;()</td>
+    <td class="s2" dir="ltr">
+       <pre lang="java">  Map&lt;K, V&gt; map; </pre>
+    </td>
+    <td class="s2" dir="ltr">
+       <pre lang="java">  Map.of(key, value, key2, value2) </pre>
+    </td>
+    <td class="s2" dir="ltr">
+       <pre lang="java">  new HashMap&lt;K, V&gt;() </pre>
+    </td>
   </tr>
   <tr style="height:20px;" style="background-color:#FFF">
     <td class="s3" dir="ltr">Kotlin</td>
@@ -86,7 +94,7 @@
       <pre lang="Kotlin"> val map: Map&lt;K, V&gt; </pre>
     </td>
     <td class="s2" dir="ltr">
-      <pre lang="Kotlin">  mapOf(key to value, key1 to value2) </pre>
+      <pre lang="Kotlin"> mapOf(key to value, key1 to value2) </pre>
     </td>
     <td class="s2" dir="ltr">
        <pre lang="Kotlin">  HashMap&lt;K, V&gt;() </pre>
@@ -95,7 +103,9 @@
   <tr style="height:20px;">
     <td class="s0" dir="ltr">JS</td>
     <td class="s4" dir="ltr"></td>
-    <td class="s2" dir="ltr">{ "k" : v, "k1" : v }</td>
+    <td class="s2" dir="ltr">
+       <pre lang="javascript">  { "k" : v, "k1" : v }  </pre> 
+    </td>
     <td class="s2" dir="ltr"></td>
   </tr>
   <tr style="height:20px;">
@@ -114,7 +124,7 @@
   </tr>
   <tr style="height:20px;">
     <td class="s3" dir="ltr">Bash</td>
-    <td class="s7" dir="ltr" colspan="3">N/A</td>
+    <td class="s7" align="center" colspan="3">N/A</td>
   </tr>
   </tbody>
 </table>
