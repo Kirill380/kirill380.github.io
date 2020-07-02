@@ -91,7 +91,7 @@
     <td class="s2" dir="ltr">
        <pre lang="java">  Map&lt;K, V&gt; map; </pre>
     </td>
-    <td class="s2" dir="ltr">
+    <td class="s2" align="center" dir="ltr">
        <pre lang="java">  Map.of(key, value, key2, value2) </pre>
     </td>
     <td class="s2" dir="ltr">
@@ -103,7 +103,7 @@
     <td class="s2" dir="ltr">
       <pre lang="Kotlin"> val map: Map&lt;K, V&gt; </pre>
     </td>
-    <td class="s2" dir="ltr">
+    <td class="s2" align="center"  dir="ltr">
       <pre lang="Kotlin"> mapOf(key to value, key1 to value2) </pre>
     </td>
     <td class="s2" dir="ltr">
@@ -113,7 +113,7 @@
   <tr style="height:20px;">
     <td class="s0" dir="ltr">JS</td>
     <td class="s4" dir="ltr"></td>
-    <td class="s2" dir="ltr">
+    <td class="s2" align="center" dir="ltr">
        <pre lang="javascript">  { "k" : v, "k1" : v }  </pre> 
     </td>
     <td class="s2" dir="ltr"></td>
@@ -121,7 +121,7 @@
   <tr style="height:20px;">
     <td class="s0" dir="ltr">Python 3.8</td>
     <td class="s2" dir="ltr"></td>
-    <td class="s2" dir="ltr">
+    <td class="s2" align="center"  dir="ltr">
       <pre lang="python"> { k : v, k1 : v }  </pre> 
     </td>
     <td class="s2" dir="ltr"></td>
@@ -131,7 +131,7 @@
     <td class="s2" dir="ltr">
       <pre lang="c++"> std::map&lt;k, v&gt; map </pre> 
     </td>
-    <td class="s2" dir="ltr"> 
+    <td class="s2" align="center"  dir="ltr"> 
       <pre lang="c++">  { {k, v}, {k, v} } </pre> 
     </td>
     <td class="s2" dir="ltr"></td>
