@@ -48,19 +48,29 @@
   <tr style="height:20px;">
     <td class="s0" dir="ltr">Python 3.8</td>
     <td class="s4" dir="ltr"></td>
-    <td class="s2" dir="ltr">array([a, b, c])</td>
+    <td class="s2" dir="ltr">
+      <pre lang="python"> array([a, b, c]) </pre>
+    </td>
     <td class="s2" dir="ltr"></td>
   </tr>
   <tr style="height:20px;">
     <td class="s3" dir="ltr">C/C++ 11</td>
-    <td class="s2" dir="ltr">Type arr[];</td>
-    <td class="s2" dir="ltr">{a, b, c}</td>
-    <td class="s2" dir="ltr">(Type[]) { a, b, c }</td>
+    <td class="s2" dir="ltr">
+       <pre lang="c++"> Type arr[]; </pre>
+    </td>
+    <td class="s2" dir="ltr">
+       <pre lang="c++"> {a, b, c} </pre>
+    </td>
+    <td class="s2" dir="ltr">
+       <pre lang="c++"> (Type[]) { a, b, c } </pre>
+    </td>
   </tr>
   <tr style="height:20px;">
     <td class="s3" dir="ltr">Bash</td>
     <td class="s5" dir="ltr"></td>
-    <td class="s6" dir="ltr">(a, b, c)</td>
+    <td class="s6" dir="ltr">
+      <pre lang="bash"> (a, b, c) </pre>
+    </td>
     <td class="s6" dir="ltr"></td>
   </tr>
   </tbody>
