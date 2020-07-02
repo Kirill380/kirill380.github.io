@@ -69,7 +69,7 @@
     <td class="s3" dir="ltr">Bash</td>
     <td class="s5" dir="ltr"></td>
     <td class="s6" align="center" dir="ltr">
-      <pre lang="bash"> (a, b, c) </pre>
+      <pre lang="bash"> (a b c) </pre>
     </td>
     <td class="s6" dir="ltr"></td>
   </tr>
