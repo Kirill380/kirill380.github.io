@@ -1,7 +1,7 @@
-<h1> Language comparision </h1>
+# Language comparision 
 
 
-<h2>Data structures and types </h2>
+## Data structures and types 
 
 <table>
   <thead>
