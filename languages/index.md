@@ -121,12 +121,16 @@
   <tr style="height:20px;">
     <td class="s0" dir="ltr">Python 3.8</td>
     <td class="s2" dir="ltr"></td>
-    <td class="s2" dir="ltr">{ k : v, k1 : v }</td>
+    <td class="s2" dir="ltr">
+      <pre lang="python"> { k : v, k1 : v }  </pre> 
+    </td>
     <td class="s2" dir="ltr"></td>
   </tr>
   <tr style="height:20px;">
     <td class="s3" dir="ltr">C/C++ 11</td>
-    <td class="s2" dir="ltr">std::map&lt;k, v&gt; map</td>
+    <td class="s2" dir="ltr">
+      <pre lang="c++"> std::map&lt;k, v&gt; map </pre> 
+    </td>
     <td class="s2" dir="ltr"> 
       <pre lang="c++">  { {k, v}, {k, v} } </pre> 
     </td>
