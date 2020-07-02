@@ -72,8 +72,8 @@
     <td class="s2" dir="ltr">(Type[]) { a, b, c }</td>
     <td class="s2" dir="ltr">std::map&lt;k, v&gt; map</td>
     <td class="s2" dir="ltr"> 
-      <pre lang="c++">  {{k, v}, {k, v}} </pre> 
-      </td>
+      <pre lang="c++">  { {k, v}, {k, v} } </pre> 
+    </td>
     <td class="s2" dir="ltr"></td>
   </tr>
   <tr style="height:20px;">
