@@ -15,6 +15,35 @@ du -sh
 du -h --max-depth=1 | sort -hr
 ```
 
+4. Check is port in use
+
+```bash 
+netstat -tulpn | grep LISTEN # flags differnt for MacOS
+```
+
+or
+
+```bash 
+sudo ss -tulwn | grep LISTEN
+```
+
+or 
+
+```bash 
+sudo lsof -i -P -n | grep LISTEN
+```
+
+5. Unzip
+
+```bash 
+tar -xvzf /path/to/yourfile.tgz
+```
+
+* x for extract
+* v for verbose
+* z for gnuzip
+* f for file, should come at last just before file name.
+
 ## Usefull links
 1. [Linux shell scripting](https://www.linkedin.com/learning/learning-linux-shell-scripting-2)
 2. https://habr.com/ru/post/436938/
