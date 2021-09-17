@@ -18,7 +18,7 @@ du -h --max-depth=1 | sort -hr
 4. Check is port in use
 
 ```bash 
-netstat -tulpn | grep LISTEN # flags differnt for MacOS
+sudo netstat -tulpn | grep LISTEN # flags differnt for MacOS
 ```
 
 ```bash 
