@@ -21,13 +21,13 @@ du -h --max-depth=1 | sort -hr
 netstat -tulpn | grep LISTEN # flags differnt for MacOS
 ```
 
-or
+  or
 
 ```bash 
 sudo ss -tulwn | grep LISTEN
 ```
 
-or 
+  or 
 
 ```bash 
 sudo lsof -i -P -n | grep LISTEN
